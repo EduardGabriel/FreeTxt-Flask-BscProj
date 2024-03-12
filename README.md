@@ -15,14 +15,13 @@ Here is the [link to FreeTxt app](https://www.freetxt.app/) which is currently u
 - This is a fork of the platform, on which adaptations will be emplaced to realise my final year project for Computer Science Bsc at Cardiff University
 - The scope of my project is focused specifically on improving/refining the summarisation provided.
   
-**Title "From Text to Insights: Summarising Free Text Responses in Surveys Using Natural Language Processing Tools" **
+**Title "From Text to Insights: Summarising Free Text Responses in Surveys Using Natural Language Processing Tools"**
 
 ## Goals:
 -   Mono and Multi-Document Support
 -   Abstractive Generative Summary
-
 -    Evaluating the performance of various models
-- 
+
 
 
 
