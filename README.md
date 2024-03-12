@@ -1,3 +1,5 @@
+
+
 # The FreeTxt app
 
 Here is the [link to FreeTxt app](https://www.freetxt.app/) which is currently under development. 
@@ -7,6 +9,11 @@ Here is the [link to FreeTxt app](https://www.freetxt.app/) which is currently u
 - The team included PI - Dawn Knight; CIs - Paul Rayson, Mo El-Haj; RAs - Nouran Khallaf, Ignatius Ezeani  and Steve Morris. The Project Advisory Group included representatives from: National Trust Wales, Cadw, Museum Wales, CBAC | WJEC and National Centre for Learning Welsh.
 
 - For further information on the FreeTxt project please contact the project team: CorCenCC@Cardiff.ac.uk
+
+# Personal Fork
+
+This is a fork of the platform, on which adaptations will be emplaced to realise my final year project for Computer Science Bsc at Cardiff University
+The goals of my refinement are to focus specifically on refining and improving the summarisation provided.
 
 
 # FreeTxt-Flask Setup Instructions
