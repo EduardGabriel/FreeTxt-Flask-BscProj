@@ -14,7 +14,7 @@ Here is the [link to FreeTxt app](https://www.freetxt.app/) which is currently u
 
 - This is a fork of the FreeTxt platform, on which adaptations will be emplaced to realise my final year project for Computer Science Bsc at Cardiff University.
 - The scope of my project is focused specifically on improving/refining the summarisation provided.
-- The project is authorized by a CU supervisor in contact with FreeTxt developers and maintainers; Accredited in the unchanged parts of the README.
+- The project is authorized by a CU supervisor in contact with FreeTxt developers and maintainers; Accredited in the original parts of the README.
   
   
 ## Goals:
