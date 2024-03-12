@@ -15,6 +15,7 @@ Here is the [link to FreeTxt app](https://www.freetxt.app/) which is currently u
 - This is a fork of the platform, on which adaptations will be emplaced to realise my final year project for Computer Science Bsc at Cardiff University
 - The goals of my project are to focus specifically on refining and improving the summarisation provided.
 
+- Project entitled: "From Text to Insights: Summarising Free Text Responses in Surveys Using Natural Language Processing Tools" 
 
 # FreeTxt-Flask Setup Instructions
 
