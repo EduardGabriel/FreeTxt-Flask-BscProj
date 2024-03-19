@@ -12,15 +12,18 @@ Here is the [link to FreeTxt app](https://www.freetxt.app/) which is currently u
 
 # "From Text to Insights: Summarising Free Text Responses in Surveys Using NLP" - Personal Fork
 
-- This is a fork of the FreeTxt platform, on which adaptations will be emplaced to realise my final year project for Computer Science Bsc at Cardiff University.
-- The scope of my project is focused specifically on improving/refining the summarisation provided.
-- The project is authorized by a CU supervisor in contact with FreeTxt developers and maintainers; Accredited in the original parts of the README.
+- This is a fork of the FreeTxt platform, to use as a part of my project for Computer Science Bsc at Cardiff University.
+- [Link to official repo](https://github.com/UCREL/FreeTxt-Flask)
+- The scope of my project with FreeTxt, is to provide a more refined summarisation model.
+- The project is authorized by a CU supervisor in contact with FreeTxt maintainers; All credits are kept in the original parts of the README.
   
   
 ## Goals:
--   Mono and Multi-Document Support
+
+-   Structure to test, refine and evaluate different  summarisation architectures 
+-   Mono and Multi-Document Summary
 -   Abstractive Generative Summary
--    Evaluating the performance of various models
+  
 
 
 
@@ -34,7 +37,7 @@ Follow these steps to set up the project on your local machine.
 
 Before you start, make sure you have installed:
 - Git
-- Python 3
+- Python 3.10
 - pip (Python package installer)
 
 ## Step 1: Clone the Repository
