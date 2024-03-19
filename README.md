@@ -18,9 +18,9 @@ Here is the [link to FreeTxt app](https://www.freetxt.app/) which is currently u
   
   
 ## Goals:
+
 -   Mono and Multi-Document Support
 -   Abstractive Generative Summary
--    Evaluating the performance of various models
 
 
 
